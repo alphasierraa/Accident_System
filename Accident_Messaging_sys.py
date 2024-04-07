@@ -4,7 +4,7 @@ from twilio.rest import Client
 def send_sms(message):
     """Send SMS notification."""
     account_sid = 'AC3e7b43014fef891faec1a0c1fee1ade5'
-    auth_token = '29d6aa97a899aa4c8d6518657dd820a9'
+    auth_token = '222531a6cedd7cf8e1a4f5b321c59cc9'
     sender_number = '+19095211963'  # Twilio phone number
     receiver_number = '+919354082061'  # Recipient's phone number
 
